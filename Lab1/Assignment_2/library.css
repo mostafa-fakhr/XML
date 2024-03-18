@@ -1,0 +1,51 @@
+library {
+  font-family: Arial, sans-serif;
+}
+
+location,
+librarianName,
+book,
+id,
+title,
+ISBN,
+author,
+preface,
+content {
+  font-weight: bold;
+  display: block;
+  margin-top: 10px;
+}
+
+parts,
+part,
+chapters,
+chapter,
+sections,
+section {
+  margin-left: 20px;
+  display: block;
+}
+
+content {
+  font-style: italic;
+}
+
+description {
+  margin-bottom: 10px;
+}
+
+preface {
+  margin-top: 5px;
+}
+
+title {
+  color: #007bff;
+}
+
+id {
+  color: #28a745;
+}
+
+author {
+  color: #dc3545;
+}

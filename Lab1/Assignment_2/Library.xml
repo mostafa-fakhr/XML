@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="library.css"?>
+
+<library>
+  <location>Location : Alexandria</location>
+  <description>Alexndria's Library.</description>
+  <librarianName>Librarian-Name : Mostafa Fakhr</librarianName>
+  <books>
+    <book>
+      <id>First Book : </id>
+      <title>Atomic Habits</title>
+      <ISBN>ISBN : 12345</ISBN>
+      <author>Author : James Clear</author>
+      <preface>
+        <content> Content : Introduction to the book </content>
+      </preface>
+
+      <parts>
+        <part>
+          Parts :
+          <title>Part 1</title>
+          <chapters>
+            <chapter>
+              <title>Chapter 1</title>
+              <summary>An introduction to chapter 1</summary>
+              <sections>
+                <section>
+                  <content>First Section : Fisrt page</content>
+                </section>
+                <section>
+                  <content>Second Section : second page</content>
+                </section>
+              </sections>
+            </chapter>
+            <title>Part 2</title>
+            <chapter>
+              <title>Chapter 2</title>
+              <summary>An introduction to chapter 2.</summary>
+              <sections>
+                <section>
+                  <content>First Section: Fisrt page</content>
+                </section>
+                <section>
+                  <content>Second Section: second page</content>
+                </section>
+              </sections>
+            </chapter>
+          </chapters>
+        </part>
+      </parts>
+    </book>
+
+    <book>
+      <id>Second Book : </id>
+      <title>The Great Gatsby</title>
+      <ISBN>ISBN : 12345</ISBN>
+      <author>Author : F. Scott Fitzgerald</author>
+      <preface>
+        <content> Content : Introduction to the book </content>
+      </preface>
+
+      <parts>
+        <part>
+          Parts :
+          <title>Part 1</title>
+          <chapters>
+            <chapter>
+              <title>Chapter 1</title>
+              <summary>An introduction to chapter 1</summary>
+              <sections>
+                <section>
+                  <content>First Section : Fisrt page</content>
+                </section>
+                <section>
+                  <content>Second Section : second page</content>
+                </section>
+              </sections>
+            </chapter>
+            <title>Part 2</title>
+            <chapter>
+              <title>Chapter 2</title>
+              <summary>An introduction to chapter 2.</summary>
+              <sections>
+                <section>
+                  <content>First Section: Fisrt page</content>
+                </section>
+                <section>
+                  <content>Second Section: second page</content>
+                </section>
+              </sections>
+            </chapter>
+          </chapters>
+        </part>
+      </parts>
+    </book>
+  </books>
+</library>

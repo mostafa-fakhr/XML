@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="emp.css"?>
+
+<employees>
+  <employee>
+    <name> Name: Mostafa Fakhr</name>
+    <phones>
+      <phone type="home"> Home: 5855585</phone>
+      <phone type="work">Work: +201251861</phone>
+      <phone type="mobile">Mobile: 012345648</phone>
+    </phones>
+    <adresses>
+      <adress>
+        <street> Street: Mostafa Kamel ,</street>
+        <Building>Building No: 9 ,</Building>
+        <Region>Region: Smouha ,</Region>
+        <City>City: Alexandria ,</City>
+        <Country>Country: Egypt</Country>
+      </adress>
+    </adresses>
+    <email>Email: mostafa.fakhr197@gmail.com</email>
+  </employee>
+
+  <employee>
+    <name>Name: Mohamed Ahmed</name>
+    <phone type="home">Home: 958878</phone>
+    <phone type="work">Work: +201555687</phone>
+    <phone type="mobile">Mobile: 015568815</phone>
+    <adresses>
+      <adress>
+        <street>Street: Nabil Mansour ,</street>
+        <Building>BuildingNo: 5, </Building>
+        <Region>Region Bolkly ,</Region>
+        <City>City: Alexandria ,</City>
+        <Country>Country: Egypt </Country>
+      </adress>
+    </adresses>
+    <email>Email: mostafa@gmail.com</email>
+  </employee>
+</employees>
