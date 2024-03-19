@@ -1,0 +1,20 @@
+employees {
+  width: 100%;
+}
+
+employee {
+  margin-bottom: 20px;
+}
+
+name {
+  font-weight: bold;
+  font-size: large;
+}
+
+employee,
+phone,
+adress,
+email {
+  display: block;
+  margin-top: 10px;
+}
