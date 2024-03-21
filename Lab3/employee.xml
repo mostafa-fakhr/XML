@@ -1,0 +1,55 @@
+<?xml version="1.0"?> 
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+
+<employees>
+	<employee>
+		<name>Name: Mostafa Fakhr</name>
+		<phones>
+			<phone type="Home">Home:585858</phone>
+			<phone type="Work">Work:+20115646464</phone>
+			<phone type="moblie">Mobile:01215154154</phone>
+		</phones>
+
+		<addresses>
+			<address>
+				<street>street1</street>
+
+				<building>A</building>
+
+				<region>smouha</region>
+
+				<city>Alexandria</city>
+
+				<country>Egypt</country>
+			</address>
+		</addresses>
+
+		<mail>mostafa@gmail.com</mail>
+	</employee>
+
+	<employee>
+		<name>Name: Mostafa</name>
+
+		<phones>
+			<phone type="Home">Home:5897456</phone>
+			<phone type="Work">Work:+25184187</phone>
+			<phone type="moblie">Mobile:011516515</phone>
+		</phones>
+
+		<addresses>
+			<address>
+				<street>street2</street>
+
+				<building>B</building>
+
+				<region>Roushdy</region>
+
+				<city>Alexandria</city>
+
+				<country>Egypt</country>
+			</address>
+		</addresses>
+		
+		<mail>mostafa.fakhr197@gmail.com</mail>
+	</employee>
+</employees>
